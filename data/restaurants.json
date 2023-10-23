@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Briyani Mahal",
+        "address": "ASHOK KUMAR HOUSE",
+        "cuisine": "Indian",
+        "website": "http://briyaniMahal.com",
+        "description": "Mast hai bhai"
+    },
+    {
+        "name": "Shelby's Kitchen",
+        "address": "Megapolis",
+        "cuisine": "Indian",
+        "website": "http://Shlvy.com",
+        "description": "Kadak khana hai bhai"
+    },
+    {
+        "name": "Samadhan Kitchen",
+        "address": "Fountain Market",
+        "cuisine": "Italian",
+        "website": "http://samadhan.com",
+        "description": "Homely food at reasonable cost"
+    }
+]
